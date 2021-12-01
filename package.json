@@ -1,0 +1,19 @@
+{
+  "name": "a01-kravilla",
+  "version": "0.0.1",
+  "description": "A webpage about Vikings",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-kravilla.git"
+  },
+  "author": "Kishan Babuji",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-kravilla/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-kravilla#readme"
+}
