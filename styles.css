@@ -14,3 +14,21 @@ h1 {
 .intro {
     font-family: "Lucida Console";
 }
+.about:hover {
+    color: #FF00FF;
+}
+body div h3 {
+    color: lightgreen;
+}
+.thor-title {
+    background-color: #2ff;
+}
+.odin-title {
+    background-color: #2ff;
+}
+.images-title {
+    background-color: #2ff;
+}
+img {
+    border: 2px solid;
+}
